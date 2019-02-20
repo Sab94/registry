@@ -151,6 +151,10 @@
     "url": "https://raw.githubusercontent.com/denoland/deno_std/${b}/strings/",
     "repo": "https://github.com/denoland/deno_std/tree/master/strings"
   },
+  "string_to_case": {
+    "url": "https://raw.githubusercontent.com/Sab94/string_to_case/${b}",
+    "repo": "https://github.com/Sab94/string_to_case"
+  },
   "task_runner": {
     "url": "https://raw.githubusercontent.com/jinjor/deno-task-runner/${b}/",
     "repo": "https://github.com/jinjor/deno-task-runner"
