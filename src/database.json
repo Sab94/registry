@@ -55,7 +55,11 @@
     "url": "https://raw.githubusercontent.com/pietvanzoen/deno-dotenv/${b}/",
     "repo": "https://github.com/pietvanzoen/deno-dotenv"
   },
+<<<<<<< HEAD
   "escape-string-regexp": {
+=======
+  "escape_string_regexp": {
+>>>>>>> 11d7a9d2e7af18ec64bff0d88157127e71e83f3e
     "url": "https://raw.githubusercontent.com/Sab94/escape-string-regexp/${b}",
     "repo": "https://github.com/Sab94/escape-string-regexp"
   },
